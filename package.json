@@ -1,0 +1,27 @@
+{
+  "name": "hermes-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iv597/hermes-panel.git"
+  },
+  "author": "Josh Klar <j@iv597.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iv597/hermes-panel/issues"
+  },
+  "homepage": "https://github.com/iv597/hermes-panel#readme",
+  "dependencies": {
+    "acpi": "0.0.1",
+    "alsa-monitor": "github:mlaurijsse/alsa-monitor-node",
+    "loudness": "^0.2.2",
+    "moment": "^2.13.0",
+    "object.entries": "^1.0.3",
+    "promisify-node": "^0.4.0"
+  }
+}
